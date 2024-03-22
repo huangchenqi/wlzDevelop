@@ -1,3 +1,3 @@
 # wlzDevelop
-开发
-在QT中QLineSeries的显示与标记点
+标记点
+在QT中QLineSeries的显示与标记点优化。由于直接在QLineSeries上点击标记会导致ScatterSeries散点出现位置错误，这里用setOpacity进行设置解决了该问题。
