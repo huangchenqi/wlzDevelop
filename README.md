@@ -1,0 +1,1 @@
+测试QChart的最大数据正常加载量是1万。极限是10万。超过这数加载卡顿与超时。 本项目的QChart实现的功能有QLineSeries的显示与标记点。且有放大缩小功能。The maximum normal loading capacity for QChart is 10,000 data points. The limit is 100,000. The QChart implementation in this project includes displaying QLineSeries with marker points, as well as zoom in and zoom out functionality.
